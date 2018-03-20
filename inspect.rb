@@ -51,10 +51,8 @@ class MyDocument < Nokogiri::XML::SAX::Document
     @path << name
     @characters = ""
     node_info.occured
-    if name == "Product" && @path == ["ONIXMessage", "Product"]
-      @counter += 1
-      puts @counter if @counter % 100 == 0
-    end
+    @counter += 1
+    puts @counter if @counter % 1000 == 0
   end
 
   def characters(string)
