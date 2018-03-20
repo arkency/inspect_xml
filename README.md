@@ -21,7 +21,7 @@ ONIXMessage/Header/Sender - 1
 ONIXMessage/Header/Sender/ContactName - 1
   CoreSource - 1
 ONIXMessage/Header/Sender/SenderName - 1
-  Ingram Content Group - 1
+  Foo Content Group - 1
 ONIXMessage/Header/SentDateTime - 1
   20171019T170325Z - 1
 ONIXMessage/Product - 57257
