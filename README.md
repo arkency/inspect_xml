@@ -89,3 +89,11 @@ ONIXMessage/Product/DescriptiveDetail/AudienceCode - 54387
   02 - 54110
   04 - 277
 ```
+
+## About
+
+<img src="https://arkency.com/images/arkency.png" alt="Arkency" width="60px" align="left" />
+
+This repository is funded and maintained by [Arkency](https://arkency.com). Check out our other [open-source projects](https://github.com/arkency), especially [Rails Event Store](https://github.com/RailsEventStore).
+
+Consider [hiring us](https://arkency.com/hire-us) and make sure to check out [our blog](https://blog.arkency.com).
